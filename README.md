@@ -1,0 +1,4 @@
+```
+./gen.sh
+yarn start
+```
